@@ -1,4 +1,4 @@
-# cs191w
+# Jenny Vo-Phamhi's CS 191W Submission
 
 This repo is my submission for CS 191W.
 
